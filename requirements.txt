@@ -1,0 +1,5 @@
+rich>=13.0.0
+questionary>=1.10.0
+pynput>=1.7.6
+keyboard>=0.13.5
+PyYAML>=6.0
